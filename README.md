@@ -6,6 +6,6 @@ This calculator intend to help mathematicians to easily do their calculations
 # description
 *highlight*
 
-`git add .`
+`git add .
 
 `git commit`
